@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#Sobre Mim:
+
+  Acadêmico do 4° Período do curso de Bachalerado de Sistemas de Informação na universidade Unimater.
