@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Sobre Mim:
 
-  Acadêmico do 4° Período do curso de Bachalerado de Sistemas de Informação na universidade Unimater.
+  Acadêmico do curso de Bachalerado de Sistemas de Informação na universidade Unimater.
 
 ### Projetos Atuais:
 
