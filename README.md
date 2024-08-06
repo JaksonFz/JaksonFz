@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Sobre Mim:
 
-  Acadêmico do curso de Bachalerado de Sistemas de Informação na universidade Unimater.
+  Acadêmico do curso de Bachalerado de Sistemas de Informação na universidade Unimater. Possuo conhecimento básico em Java, Python e SQL.
 
 ### Projetos Atuais:
 
